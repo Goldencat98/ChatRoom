@@ -29,7 +29,7 @@ A real-time chatroom web application built using Java 17, Spring Boot, WebSocket
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/Goldencat98/ChatRoom.git
-   cd goldencat-chatroom
+   cd ChatRoom
    ```
 
 2. **Build the Project**:
